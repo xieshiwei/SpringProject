@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="03_adviceType" />
+        <module name="account_anno_ioc_withoutxml" />
+        <module name="03_transaction" />
+        <module name="03_proxy" />
+        <module name="03_annotationAOP" />
+        <module name="account_anno_ioc" />
+        <module name="04_tx_xml" />
+        <module name="annio_ioc" />
+        <module name="xmlioc" />
+        <module name="03_springaop" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

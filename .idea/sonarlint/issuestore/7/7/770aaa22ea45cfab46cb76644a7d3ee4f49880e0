@@ -1,0 +1,6 @@
+
+isquid:UselessImportCheck"@Remove this unused import 'java.lang.reflect.InvocationHandler'.(ўРйН8дуд≈ш-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ЛћЃЎы€€€€8дуд≈ш-
+`squid:UselessImportCheck"7Remove this unused import 'com.spring.proxy.IProducer'.(Ѕ†љЮ8дуд≈ш-
+]squid:UselessImportCheck"4Remove this unused import 'java.lang.reflect.Proxy'.(Е’џ≤8дуд≈ш-
